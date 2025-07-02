@@ -1,0 +1,7913 @@
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 155
+    [employee_name] => يوسف
+    [role] => admin
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 155
+    [employee_name] => يوسف
+    [role] => admin
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 2
+    [employee_name] => ahmed
+    [role] => head
+    [employee_id] => 5
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => in_progress
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => completed
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => new
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 2
+    [employee_name] => ahmed
+    [role] => head
+    [employee_id] => 5
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 2
+    [employee_name] => ahmed
+    [role] => head
+    [employee_id] => 5
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => 
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => 
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => new
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => new
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => employee
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 155
+    [employee_name] => يوسف
+    [role] => admin
+    [employee_id] => 1
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 999
+    [employee_name] => elex
+    [role] => employee
+    [employee_id] => 6
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 2
+    [employee_name] => ahmed
+    [role] => head
+    [employee_id] => 5
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 2
+    [employee_name] => ahmed
+    [role] => head
+    [employee_id] => 5
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 999
+    [employee_name] => elex
+    [role] => employee
+    [employee_id] => 6
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 1212
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 1212
+            [employee_name] => فراس
+            [role] => supervisor
+            [employee_id] => 1006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== JOIN_REPORT SESSION ====
+Array
+(
+    [loggedin] => 1
+    [rfid_tag] => 999
+    [employee_name] => elex
+    [role] => employee
+    [employee_id] => 6
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => new
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 999
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 999
+            [employee_name] => elex
+            [role] => employee
+            [employee_id] => 6
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 22
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 22
+            [employee_name] => ali
+            [role] => employee
+            [employee_id] => 2006
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 2
+            [role] => 
+            [department] => 
+            [section] => 
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 2
+            [employee_name] => ahmed
+            [role] => head
+            [employee_id] => 5
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+
+
+==== NEW REQUEST ====
+Array
+(
+    [GET] => Array
+        (
+            [status_name] => all
+            [rfid_tag] => 155
+            [role] => <?php echo $role; ?>
+            [department] => <?php echo $department; ?>
+            [section] => <?php echo $section; ?>
+        )
+
+    [SESSION] => Array
+        (
+            [loggedin] => 1
+            [rfid_tag] => 155
+            [employee_name] => يوسف
+            [role] => admin
+            [employee_id] => 1
+        )
+
+)
+

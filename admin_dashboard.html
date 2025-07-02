@@ -1,0 +1,323 @@
+<!DOCTYPE HTML>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>لوحة تحكم الأدمن - نظام البلاغات</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #e0e242 0%, #1c5fac 100%);
+            background-attachment: fixed;
+            font-family: 'Cairo', Tahoma, Arial, sans-serif;
+        }
+        #wrapper {
+            background: rgba(255,255,255,0.95);
+            border-radius: 18px;
+            box-shadow: 0 4px 32px rgba(44,62,80,0.10);
+            margin: 2rem auto;
+            padding: 2rem 1rem;
+            max-width: 1100px;
+        }
+        .card-container { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: flex-start; }
+        .report-card {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            padding: 1.5rem;
+            width: 350px;
+            margin-bottom: 2rem;
+            position: relative;
+            direction: rtl;
+        }
+        .report-card .status {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            padding: 0.3rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            color: #fff;
+        }
+        .status.new { background: #1c5fac; }
+        .status.in_progress { background: #e0e242; color: #222; }
+        .status.in_wating { background: #f39c12; }
+        .status.completed { background: #27ae60; }
+        .status.closed { background: #7f8c8d; }
+        .card-actions { margin-top: 1.2rem; display: flex; gap: 0.5rem; }
+        .card-actions button { flex: 1; }
+        .filters { display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .stats-bar { display: flex; gap: 2rem; margin-bottom: 2rem; }
+        .stat-box { background: #f2f2f2; border-radius: 10px; padding: 1rem 2rem; font-weight: bold; }
+        .nav-cards-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+            margin: 2rem 0;
+            flex-wrap: wrap;
+        }
+        .nav-card {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.10);
+            padding: 2rem 2.5rem;
+            text-align: center;
+            min-width: 180px;
+            transition: box-shadow 0.2s, transform 0.2s, background 0.2s, color 0.2s;
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #1c5fac;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .nav-card:hover {
+            box-shadow: 0 4px 16px rgba(44,62,80,0.18);
+            background: #e0e242;
+            color: #222;
+            transform: translateY(-4px) scale(1.04);
+            text-decoration: none;
+        }
+        .nav-card i {
+            font-size: 2.2rem;
+            margin-bottom: 0.7rem;
+            color: #1c5fac;
+            transition: color 0.2s;
+        }
+        .nav-card:hover i {
+            color: #222;
+        }
+        .dashboard-analytics {
+            margin-bottom: 2.5em;
+        }
+        .dashboard-charts {
+            display: flex;
+            gap: 2em;
+            flex-wrap: wrap;
+            margin-bottom: 2em;
+        }
+        .chart-box {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+            padding: 1.5em 2em;
+            flex: 1 1 320px;
+            min-width: 320px;
+            text-align: center;
+        }
+        .dashboard-table {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+            padding: 1.5em 2em;
+        }
+        .dashboard-table h3 {
+            margin-bottom: 1em;
+        }
+        #employeePerformanceTable {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1em;
+        }
+        #employeePerformanceTable th, #employeePerformanceTable td {
+            border: 1px solid #e3e8f0;
+            padding: 0.7em 1em;
+            text-align: center;
+        }
+        #employeePerformanceTable th {
+            background: #f8fafc;
+            color: #1c5fac;
+        }
+        .export-btn {
+            background: linear-gradient(90deg, #1c5fac 60%, #e0e242 100%);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            padding: 0.5em 1.5em;
+            font-size: 1em;
+            font-weight: bold;
+            margin-bottom: 1em;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .export-btn:hover {
+            background: linear-gradient(90deg, #e0e242 60%, #1c5fac 100%);
+            color: #1c5fac;
+        }
+        @media (max-width: 900px) {
+            .dashboard-charts { flex-direction: column; }
+        }
+    </style>
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <header id="header">
+            <a href="index.html" class="logo">لوحة تحكم الأدمن</a>
+        </header>
+        <!-- Nav Cards -->
+        <div class="nav-cards-container">
+			<a href="index.html" class="nav-card"><i class="fas fa-home"></i>الرئيسية</a>
+			<a href="generic.php" class="nav-card"><i class="fas fa-pen"></i>كتابة بلاغ</a>
+			<a href="elements.html" class="nav-card"><i class="fas fa-list"></i>عرض البلاغات</a>
+			<a href="assigned_reports.html" class="nav-card"><i class="fas fa-tasks"></i>بلاغاتي المستلمة</a>
+			<a href="my_reports.html" class="nav-card"><i class="fas fa-user"></i>بلاغاتي</a>
+			<a href="login.html" class="nav-card"><i class="fas fa-sign-out-alt"></i>تسجيل خروج</a>
+		</div>
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    <h1>إدارة جميع البلاغات</h1>
+                </header>
+                <div class="stats-bar" id="statsBar">
+                    <!-- سيتم تعبئة الإحصائيات هنا -->
+                </div>
+                <div class="filters">
+                    <select id="departmentFilter">
+                        <option value="">كل الإدارات</option>
+                    </select>
+                    <select id="sectionFilter">
+                        <option value="">كل الأقسام</option>
+                    </select>
+                    <select id="employeeFilter">
+                        <option value="">كل الموظفين</option>
+                    </select>
+                    <select id="statusFilter">
+                        <option value="">كل الحالات</option>
+                        <option value="new">جديد</option>
+                        <option value="in_progress">تحت الإجراء</option>
+                        <option value="in_wating">بانتظار التأكيد</option>
+                        <option value="completed">مكتمل</option>
+                        <option value="closed">مغلق</option>
+                    </select>
+                    <button id="searchBtn">بحث</button>
+                </div>
+                <div class="card-container" id="cardsContainer">
+                    <!-- سيتم تعبئة البطاقات هنا -->
+                </div>
+            </section>
+            <div class="dashboard-analytics">
+                <div class="dashboard-charts">
+                    <div class="chart-box">
+                        <h3>توزيع حالات البلاغات</h3>
+                        <canvas id="statusPieChart" height="180"></canvas>
+                    </div>
+                    <div class="chart-box">
+                        <h3>عدد البلاغات لكل موظف</h3>
+                        <canvas id="employeeBarChart" height="180"></canvas>
+                    </div>
+                </div>
+                <div class="dashboard-table">
+                    <h3>سجل أداء الموظفين</h3>
+                    <button id="exportTableBtn" class="export-btn"><i class="fas fa-file-excel"></i> تصدير Excel</button>
+                    <div style="overflow-x:auto;">
+                        <table id="employeePerformanceTable">
+                            <thead>
+                                <tr>
+                                    <th>الموظف</th>
+                                    <th>عدد البلاغات المستلمة</th>
+                                    <th>عدد البلاغات المكتملة</th>
+                                    <th>متوسط زمن الحل (ساعات)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- سيتم تعبئة البيانات هنا -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="admin_dashboard.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        fetch('get_dashboard_stats.php')
+            .then(res => res.json())
+            .then(data => {
+                const statusCounts = data.statusCounts;
+                const employeeStats = data.employeeStats;
+
+                // رسم Pie Chart لحالات البلاغات
+                const statusPieCtx = document.getElementById('statusPieChart').getContext('2d');
+                new Chart(statusPieCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: Object.keys(statusCounts),
+                        datasets: [{
+                            data: Object.values(statusCounts),
+                            backgroundColor: ['#1c5fac', '#e0e242', '#27ae60', '#7f8c8d']
+                        }]
+                    },
+                    options: {
+                        plugins: { legend: { position: 'bottom' } }
+                    }
+                });
+
+                // رسم Bar Chart لأداء الموظفين
+                const employeeBarCtx = document.getElementById('employeeBarChart').getContext('2d');
+                new Chart(employeeBarCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: employeeStats.map(e => e.name),
+                        datasets: [{
+                            label: 'عدد البلاغات',
+                            data: employeeStats.map(e => e.total),
+                            backgroundColor: '#1c5fac'
+                        }]
+                    },
+                    options: {
+                        plugins: { legend: { display: false } },
+                        scales: { y: { beginAtZero: true } }
+                    }
+                });
+
+                // تعبئة جدول أداء الموظفين
+                const tbody = document.querySelector('#employeePerformanceTable tbody');
+                tbody.innerHTML = '';
+                employeeStats.forEach(emp => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>${emp.name}</td>
+                        <td>${emp.total}</td>
+                        <td>${emp.completed}</td>
+                        <td>${emp.avg_time}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            });
+
+        // زر تصدير الجدول إلى Excel
+        document.getElementById('exportTableBtn').onclick = function() {
+            exportTableToExcel('employeePerformanceTable', 'employee_performance');
+        };
+
+        // دالة تصدير الجدول إلى Excel
+        function exportTableToExcel(tableID, filename = ''){
+            var downloadLink;
+            var dataType = 'application/vnd.ms-excel';
+            var tableSelect = document.getElementById(tableID);
+            var tableHTML = tableSelect.outerHTML.replace(/ /g, '%20');
+            filename = filename?filename+'.xls':'excel_data.xls';
+            downloadLink = document.createElement('a');
+            document.body.appendChild(downloadLink);
+            if(navigator.msSaveOrOpenBlob){
+                var blob = new Blob(['\ufeff', tableHTML], { type: dataType });
+                navigator.msSaveOrOpenBlob( blob, filename);
+            }else{
+                downloadLink.href = 'data:' + dataType + ', ' + tableHTML;
+                downloadLink.download = filename;
+                downloadLink.click();
+            }
+            document.body.removeChild(downloadLink);
+        }
+    });
+    </script>
+</body>
+</html> 

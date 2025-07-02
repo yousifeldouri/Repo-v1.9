@@ -1,0 +1,292 @@
+<!DOCTYPE HTML>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>بلاغاتي</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+      .nav-cards-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        margin: 2rem 0;
+        flex-wrap: wrap;
+      }
+      .nav-card {
+        background: #fff;
+        border-radius: 16px;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+        padding: 2rem 2.5rem;
+        text-align: center;
+        min-width: 180px;
+        transition: box-shadow 0.2s, transform 0.2s;
+        font-size: 1.1rem;
+        font-weight: bold;
+        color: #1c5fac;
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .nav-card:hover {
+        box-shadow: 0 4px 16px rgba(44,62,80,0.18);
+        background: #e0e242;
+        color: #222;
+        transform: translateY(-4px) scale(1.04);
+        text-decoration: none;
+      }
+      .nav-card i {
+        font-size: 2.2rem;
+        margin-bottom: 0.7rem;
+        color: #1c5fac;
+        transition: color 0.2s;
+      }
+      .nav-card:hover i {
+        color: #222;
+      }
+      .card-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+        margin: 2.5rem 0;
+      }
+      .report-card {
+        background: #fff;
+        border-radius: 16px;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.10);
+        padding: 1.5rem 2rem;
+        width: 350px;
+        min-height: 220px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+        direction: rtl;
+        transition: box-shadow 0.2s, transform 0.2s;
+      }
+      .report-card:hover {
+        box-shadow: 0 4px 16px rgba(44,62,80,0.18);
+        transform: translateY(-4px) scale(1.03);
+      }
+      .report-card .status {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        padding: 0.3rem 1rem;
+        border-radius: 20px;
+        font-size: 0.95rem;
+        color: #fff;
+        font-weight: bold;
+      }
+      .status.new { background: #1c5fac; }
+      .status.in_progress { background: #e0e242; color: #222; }
+      .status.in_wating { background: #f39c12; }
+      .status.completed { background: #27ae60; }
+      .status.closed { background: #7f8c8d; }
+      .report-card .card-title {
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+        color: #1c5fac;
+      }
+      .report-card .card-section {
+        font-size: 1rem;
+        color: #444;
+        margin-bottom: 0.5rem;
+      }
+      .report-card .card-desc {
+        font-size: 1.05rem;
+        color: #222;
+        margin-bottom: 0.7rem;
+      }
+      .report-card .card-footer {
+        margin-top: 1.2rem;
+        font-size: 0.95rem;
+        color: #888;
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+      }
+      .report-card .card-footer strong {
+        color: #1c5fac;
+        font-weight: bold;
+      }
+    </style>
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <header id="header">
+            <a href="index.html" class="logo">بلاغاتي</a>
+        </header>
+        <!-- Nav Cards -->
+        <div class="nav-cards-container">
+            <a href="index.html" class="nav-card"><i class="fas fa-home"></i>الرئيسية</a>
+            <a href="generic.php" class="nav-card"><i class="fas fa-pen"></i>كتابة بلاغ</a>
+            <a href="elements.html" class="nav-card"><i class="fas fa-list"></i>عرض البلاغات</a>
+            <a href="assigned_reports.html" class="nav-card"><i class="fas fa-tasks"></i>بلاغاتي المستلمة</a>
+            <a href="my_reports.html" class="nav-card"><i class="fas fa-user"></i>بلاغاتي</a>
+            <a href="login.html" class="nav-card"><i class="fas fa-sign-out-alt"></i>تسجيل خروج</a>
+        </div>
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    <h1>بلاغاتي</h1>
+                </header>
+                <div class="card-container" id="cardsContainer">
+                    <div style="width:100%;text-align:center;color:#888;">جاري التحميل...</div>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script>
+    // جلب البلاغات الخاصة بالمستخدم وعرضها كبطاقات
+    document.addEventListener('DOMContentLoaded', function () {
+        const cardsContainer = document.getElementById('cardsContainer');
+        cardsContainer.innerHTML = '<div style="width:100%;text-align:center;color:#888;">جاري التحميل...</div>';
+        // جلب rfid_tag من الجلسة عبر API
+        fetch('get_rfid.php')
+            .then(res => res.json())
+            .then(data => {
+                if (!data.success || !data.rfid_tag) {
+                    cardsContainer.innerHTML = '<div style="width:100%;text-align:center;color:#888;">لم يتم التعرف على المستخدم. يرجى تسجيل الدخول مجددًا.</div>';
+                    return;
+                }
+                const rfid_tag = data.rfid_tag;
+                fetch('get_my_reports.php?rfid_tag=' + encodeURIComponent(rfid_tag))
+                    .then(res => res.json())
+                    .then(result => {
+                        const reports = result.reports || [];
+                        if (!reports.length) {
+                            cardsContainer.innerHTML = '<div style="width:100%;text-align:center;color:#888;">لا توجد بلاغات مسجلة.</div>';
+                            return;
+                        }
+                        cardsContainer.innerHTML = '';
+                        reports.forEach(report => {
+                            console.log('report:', report);
+                            const statusClass = 'status ' + (report.status_name ? report.status_name.replace(/ /g, '_') : '');
+                            const assignedTo = report.assigned_to_name ? report.assigned_to_name : 'لم يتم الإسناد بعد';
+                            const isParticipant = report.participants && report.participants.includes(rfid_tag);
+                            const isOwner = (rfid_tag === report.rfid_tag);
+                            const canConfirm = isOwner || isParticipant;
+                            const participantsList = (report.participants && report.participants.length) ? report.participants.join(', ') : 'لا يوجد مشاركين بعد';
+                            console.log('canConfirm:', canConfirm, 'status:', report.status_name);
+                            cardsContainer.innerHTML += `
+                                <div class="report-card">
+                                    <span class="${statusClass}">${report.status_name || ''}</span>
+                                    <div class="card-title">بلاغ رقم: ${report.report_id || ''}</div>
+                                    <div class="card-section"><strong>القسم:</strong> ${report.section || ''}</div>
+                                    <div class="card-desc"><strong>الوصف:</strong> ${report.description || ''}</div>
+                                    <div class="card-footer">
+                                        <div><strong>الحالة:</strong> <span class="${statusClass}">${report.status_name || ''}</span></div>
+                                        <div><strong>التعليق:</strong> ${report.comments || ''}</div>
+                                        <div><strong>تاريخ الإرسال:</strong> ${report.report_date ? new Date(report.report_date).toLocaleString('ar-EG') : ''}</div>
+                                        <div><strong>المشاركون:</strong> ${participantsList}</div>
+                                        <div><strong>مستلم البلاغ:</strong> ${assignedTo}</div>
+                                        <div><strong>رمز التحقق (OTP):</strong> ${report.confirmation_code || '-'}</div>
+                                        ${(canConfirm && ['in_wating','completed'].includes(report.status_name)) ? `<button onclick="showOwnerOptions(${report.report_id}, '${report.status_name}')">تأكيد/إغلاق البلاغ</button>` : ''}
+                                    </div>
+                                </div>
+                            `;
+                        });
+                    })
+                    .catch(() => {
+                        cardsContainer.innerHTML = '<div style="width:100%;text-align:center;color:#888;">حدث خطأ أثناء جلب البيانات.</div>';
+                    });
+            })
+            .catch(() => {
+                cardsContainer.innerHTML = '<div style="width:100%;text-align:center;color:#888;">حدث خطأ أثناء جلب بيانات المستخدم.</div>';
+            });
+    });
+
+    function joinReport(report_id) {
+        fetch('join_report.php', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ report_id: report_id })
+        })
+        .then(res => res.json())
+        .then(data => {
+            alert(data.message || 'تم الانضمام للعمل على البلاغ');
+            location.reload();
+        })
+        .catch(() => alert('حدث خطأ أثناء الانضمام للبلاغ.'));
+    }
+
+    function showOwnerOptions(report_id, status_name) {
+        // إنشاء نافذة منسدلة (modal)
+        const modal = document.createElement('div');
+        modal.style.position = 'fixed';
+        modal.style.top = '50%';
+        modal.style.left = '50%';
+        modal.style.transform = 'translate(-50%, -50%)';
+        modal.style.backgroundColor = 'white';
+        modal.style.padding = '20px';
+        modal.style.boxShadow = '0 2px 10px rgba(0,0,0,0.5)';
+        modal.style.zIndex = '1000';
+        modal.style.borderRadius = '12px';
+        modal.innerHTML = `<h3>تأكيد أو إغلاق البلاغ</h3>`;
+
+        // قائمة الحالات
+        const statusSelect = document.createElement('select');
+        statusSelect.style.marginBottom = '10px';
+        statusSelect.innerHTML = `
+            <option value="completed">تأكيد الاكتمال</option>
+            <option value="closed">إغلاق البلاغ (تم حل المشكلة)</option>
+            <option value="in_progress">لم تُحل المشكلة (إرجاع البلاغ)</option>
+        `;
+        modal.appendChild(statusSelect);
+
+        // مربع التعليق
+        const commentBox = document.createElement('textarea');
+        commentBox.placeholder = 'أدخل تعليقك هنا';
+        commentBox.rows = 4;
+        commentBox.style.width = '100%';
+        commentBox.style.marginBottom = '10px';
+        modal.appendChild(commentBox);
+
+        // زر التأكيد
+        const confirmBtn = document.createElement('button');
+        confirmBtn.innerText = 'تأكيد';
+        confirmBtn.style.marginLeft = '10px';
+        confirmBtn.onclick = function() {
+            fetch('update_report.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    report_id: report_id,
+                    status_name: statusSelect.value,
+                    comments: commentBox.value
+                })
+            })
+            .then(res => res.json())
+            .then(data => {
+                alert(data.message || 'تم تحديث البلاغ بنجاح');
+                document.body.removeChild(modal);
+                location.reload();
+            })
+            .catch(() => {
+                alert('حدث خطأ أثناء تحديث البلاغ.');
+                document.body.removeChild(modal);
+            });
+        };
+        modal.appendChild(confirmBtn);
+
+        // زر إغلاق النافذة
+        const closeBtn = document.createElement('button');
+        closeBtn.innerText = 'إلغاء';
+        closeBtn.onclick = function() {
+            document.body.removeChild(modal);
+        };
+        modal.appendChild(closeBtn);
+
+        document.body.appendChild(modal);
+    }
+    </script>
+</body>
+</html> 
